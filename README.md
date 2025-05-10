@@ -1,1 +1,1 @@
-** Energy Aware: Decentralised Aggregation Mechanisms in Federated Learning **
+**Energy Aware: Decentralised Aggregation Mechanisms in Federated Learning**
