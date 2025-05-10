@@ -1,4 +1,5 @@
-**Energy Aware: Decentralised Aggregation Mechanisms in Federated Learning**
+**Energy Aware: Decentralised Aggregation Mechanisms in Federated Learning**   
+
 This repository presents the implementation and experimental results of energy-efficient, decentralised
 aggregation strategies in Federated Learning (FL) systems. The proposed framework reduces communication
 overhead and energy consumption by using a graph-based topology and decentralised update mechanisms,
